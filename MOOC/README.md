@@ -13,8 +13,8 @@ This XSeries requires a programming background and experience with Python (or th
 ### Courses
 
 1. [Introduction to Apache Spark][2]
-2. [Distributed Machine Learning with Apache Spark][3]
-3. [Big Data Analysis with Apache Spark][4]
+1. [Distributed Machine Learning with Apache Spark][3]
+1. [Big Data Analysis with Apache Spark][4]
 
 [1]: https://www.edx.org/xseries/data-science-engineering-apache-spark
 [2]: https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x
