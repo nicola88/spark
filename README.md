@@ -29,6 +29,8 @@ This repository aims to be a comprehensive collection of public and personal res
 
 - [Building Real-Time Applications with Apache Spark Streaming][13]
 
+- [Scaling Spark in the Real World: Performance and Usability][17]
+
 ### AWS Elastic Map Reduce
 
 - [Amazon Web Services – Best Practices for Amazon EMR][15] (August 2013): Parviz Deyhim
@@ -63,3 +65,4 @@ Learn how to use Apache Spark, one of the leading cluster computing frameworks, 
 [14]: http://cdn.parleys.com/p/5148922b0364bc17fc56c900/1353666267593.pdf
 [15]: https://media.amazonwebservices.com/AWS_Amazon_EMR_Best_Practices.pdf
 [16]: https://www.edx.org/xseries/data-science-engineering-apache-spark
+[17]: https://cs.stanford.edu/~matei/papers/2015/vldb_spark.pdf
